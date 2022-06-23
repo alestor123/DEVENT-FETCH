@@ -1,0 +1,32 @@
+{
+    "routes":[{
+      "src":"/api/v1/conferences/events",
+      "dest":"api/v1/conferences/conferences.js",
+      "methods":["GET"]
+  },
+  {
+    "src":"/api/v1/conferences/topics",
+    "dest":"api/v1/conferences/topics.js",
+    "methods":["GET"]
+},
+{
+    "src":"/api/v1/hackathons/events/mlh",
+    "dest":"api/v1/hackathons/mlh/mlh.js",
+    "methods":["GET"]
+},
+{
+    "src":"/api/v1/hackathons/events/hackclub",
+    "dest":"api/v1/hackathons/hackclub/hackclub.js",
+    "methods":["GET"]
+},
+{
+    "src":"c",
+    "dest":"api/v1/events.js",
+    "methods":["GET"]
+},
+{
+    "src":"/api/v1/hackathons/events/",
+    "dest":"api/v1/hackathons/hackclub/event.js",
+    "methods":["GET"]
+}]
+}
