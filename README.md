@@ -28,6 +28,15 @@ Define the following environment variables:
 ![shot](./demo/shots/deventapi.png)
 
 
+# Data : 
+> Fetch info from : 
+ ## Hackathons
+ [hackclub](https://hackclub.com/)
+ [mlh](https://mlh.io/)
+ ## Conferences
+ 
+ [confs.tech](https://confs.tech/)
+
 
 ## 💖 [Donate](https://alestor123.is-a.dev/donate)
 
